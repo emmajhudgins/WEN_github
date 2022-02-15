@@ -6,8 +6,6 @@ see survey link [here](https://docs.google.com/forms/d/1Uo3IGEdG3cXqS483O38ahBAv
 slides [here](https://docs.google.com/presentation/d/1MjBCvDtY30QDEvmE5Os1BBQ2Z1B6LmyP7M3SKcfsHQY/edit?usp=sharing)
 
 
-
-
 Ideas of what to cover:
 
 - Basic overview of what you're looking at when you go to someone's github repo page (readme automatically displays, license info on right pane, can browse file structure, can download directly from there as a ZIP or 'clone' based on what you'll learn today (but see later for R packages on github)
