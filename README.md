@@ -7,7 +7,6 @@ slides [here](https://docs.google.com/presentation/d/1MjBCvDtY30QDEvmE5Os1BBQ2Z1
 
 
 
-###revert test 
 
 Ideas of what to cover:
 
