@@ -1,3 +1,3 @@
 # Data
 
-- This is the data
+- Penguin data from the "Palmer Penguins" package
