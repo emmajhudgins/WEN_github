@@ -9,7 +9,7 @@ Thoughts:
 - Another resource on cloning in RStudio that to me is less scary than the one above fork and clone subsection which is more focused on facilitating eventual pull requests [link](https://datacarpentry.org/rr-version-control/03-git-in-rstudio/index.html)
 
 - Why licenses are important [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) and how to choose [here](https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633)
--
+
 - How to install packages from GitHub [here](https://www.displayr.com/installing-r-packages-from-github/)
 
 - R projects and why they're useful [resource](https://support.rstudio.com/hc/en-us/articles/200526207-Using-RStudio-Projects) OR [resource](https://r4ds.had.co.nz/workflow-projects.html)
