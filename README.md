@@ -6,4 +6,6 @@ Slides for the workshop [here](https://docs.google.com/presentation/d/1MjBCvDtY3
 
 Additional resources [here](https://github.com/emmajhudgins/WEN_github/tree/main/Resources)
 
+Markdown cheatsheet [here](https://www.markdownguide.org/basic-syntax/)
+
 ![poster for the Project-based workflows with GitHub workshop](https://pbs.twimg.com/media/FKxoJIgXIAguWNO?format=jpg&name=large)
