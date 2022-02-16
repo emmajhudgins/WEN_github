@@ -1,8 +1,11 @@
 # Additional Resources for Workshop Attendees
 
-![Infographic](https://github.com/emmajhudgins/WEN_github/blob/main/Resources/Project-based%20workflows%20with%20GitHub.pdf)
+From the workshop: 
+
+![Infographic](https://github.com/emmajhudgins/WEN_github/blob/main/Resources/github_infographic.pdf)
 
 ![Slides](https://github.com/emmajhudgins/WEN_github/blob/main/Resources/Project-based%20workflows%20with%20GitHub.pdf)
+
 
 
 Extra details:
