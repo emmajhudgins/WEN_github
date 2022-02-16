@@ -98,7 +98,7 @@ dev.off() #close the graphics device (very important to run this line or the pdf
 
 
 
-# Save with ggsave --------------------------------------------------------
+# ggplot figure --------------------------------------------------------
 
 pen_fig <- pen.data %>% # calling on the data
   drop_na() %>%  # dropping "NAs" from the plot
