@@ -1,12 +1,5 @@
 # Additional Resources for Workshop Attendees
 
-From the workshop: 
-
-![Infographic](https://github.com/emmajhudgins/WEN_github/blob/main/Resources/github_infographic.png)
-
-[Slides](https://github.com/emmajhudgins/WEN_github/blob/main/Resources/Project-based%20workflows%20with%20GitHub.pdf)
-
-
 
 Extra details:
 
@@ -28,6 +21,13 @@ Extra details:
 
 - Examples of clean code/naming conventions you can adopt to make your code more accessible [naming conventions](https://datamanagement.hms.harvard.edu/collect/file-naming-conventions) OR R for Datascience [link](https://r4ds.had.co.nz/introduction.html)
 - [HappyGitWithR](https://happygitwithr.com/)
+
+From the workshop: 
+
+![Infographic](https://github.com/emmajhudgins/WEN_github/blob/main/Resources/github_infographic.png)
+
+[Slides](https://github.com/emmajhudgins/WEN_github/blob/main/Resources/Project-based%20workflows%20with%20GitHub.pdf)
+
 
 
 
