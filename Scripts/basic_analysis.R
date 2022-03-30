@@ -14,7 +14,7 @@ library(tidyverse) # loading tidyverse package for ggplot etc.
 
 sessionInfo() # good practice to copy and paste this after loading all packages
 #so that other users know the soft/hardware you are working with
-# can put this in your script or put it in the readme
+# can put this in your script or put it in the readme.
 
 
 
